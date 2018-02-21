@@ -10,7 +10,7 @@
             }
         }, 
    "taskStatus": "created",  "retailer": "abc"},
-  {"id": 2, "deliveryDate": 20.01.2018, "deliveryTime": "12 am", "recepientName": "oleg",    "recepientAddress": {
+  {"id": 2, "deliveryDate": "2017-04-23 23:05", "deliveryTime": "12 am", "recepientName": "oleg",    "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
