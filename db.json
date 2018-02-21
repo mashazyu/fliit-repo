@@ -1,86 +1,151 @@
 {
   "tasks":[
-  {"id": 1, "deliveryDate": "2017-04-23 23:05", "deliveryTime": "12 am", "recepientName": "peter", 
-   "recepientAddress": {
+    {
+      "id": 1, 
+      "deliveryDate": "2017-04-23 23:05", 
+      "recepientName": "peter", 
+      "recepientAddress": {
+                "zip": "23898",
+                "city": "Kühsen",
+                "street": {
+                    "name": "Hillentruper Straße",
+                    "number": 80
+                }
+      }, 
+      "taskStatus": "created",  
+      "retailer": "abc"
+    },
+    {
+      "id": 2, 
+      "deliveryDate": "2017-05-23 10:05", 
+      "recepientName": "oleg",    
+      "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
                 "name": "Hillentruper Straße",
                 "number": 80
             }
-        }, 
-   "taskStatus": "created",  "retailer": "abc"},
-  {"id": 2, "deliveryDate": "2017-04-23 23:05", "deliveryTime": "12 am", "recepientName": "oleg",    "recepientAddress": {
+      },  
+      "taskStatus": "ongoing",  
+      "retailer": "abc"
+    },
+    {
+      "id": 3, 
+      "deliveryDate": "2017-05-20 10:05", 
+      "recepientName": "alex",    
+      "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
                 "name": "Hillentruper Straße",
                 "number": 80
             }
-        },  "taskStatus": "ongoing",  "retailer": "abc"},
-  {"id": 3, "deliveryDate": "20.01.2018", "deliveryTime": "12 am", "recepientName": "alex",    "recepientAddress": {
+      }, 
+      "taskStatus": "delivered",  
+      "retailer": "abc"
+    },
+    {
+      "id": 4, 
+      "deliveryDate": "2018-05-20 10:05", 
+      "recepientName": "bri",    
+      "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
                 "name": "Hillentruper Straße",
                 "number": 80
             }
-        }, "taskStatus": "delivered",  "retailer": "abc"},
-  {"id": 4, "deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "bri",    "recepientAddress": {
+      },  
+      "taskStatus": "delivered",  
+      "retailer": "cde"
+    },
+    {
+      "id": 5, 
+      "deliveryDate": "2018-05-20 11:05", 
+      "recepientName": "bob",    
+      "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
                 "name": "Hillentruper Straße",
                 "number": 80
             }
-        },  "taskStatus": "delivered",  "retailer": "cde"},
-  {"id": 5, "deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "bob",    "recepientAddress": {
+      },  
+      "taskStatus": "delivered",  
+      "retailer": "cde"
+    },
+    {
+      "id": 6, 
+      "deliveryDate": "2018-05-22 11:05",  
+      "recepientName": "andreas",   
+      "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
                 "name": "Hillentruper Straße",
                 "number": 80
             }
-        },  "taskStatus": "delivered",  "retailer": "cde"},
-  {"id": 6, "deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "andreas",   "recepientAddress": {
+      },  
+      "taskStatus": "delivered",  
+      "retailer": "fff"
+    },
+    {
+      "id": 7, 
+      "deliveryDate": "2018-05-22 12:05",  
+      "recepientName": "olga",    
+      "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
                 "name": "Hillentruper Straße",
                 "number": 80
             }
-        },  "taskStatus": "delivered",  "retailer": "fff"},
-  {"id": 7, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "olga",    "recepientAddress": {
+      },  
+      "taskStatus": "ongoing",  
+      "retailer": "fdfa"
+    },
+    {
+      "id": 8, "deliveryDate": "2018-05-24 12:05", 
+      "recepientName": "anna",   
+      "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
                 "name": "Hillentruper Straße",
                 "number": 80
             }
-        },  "taskStatus": "ongoing",  "retailer": "fdfa"},
-  {"id": 8, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "anna",   "recepientAddress": {
+      }, 
+      "taskStatus": "ongoing",  
+      "retailer": "fdfa"
+    },
+    {
+      "id": 9, "deliveryDate": "2018-05-14 12:05",  
+      "recepientName": "paul",    
+      "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
                 "name": "Hillentruper Straße",
                 "number": 80
             }
-        }, "taskStatus": "ongoing",  "retailer": "fdfa"},
-  {"id": 9, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "paul",    "recepientAddress": {
+      },  
+      "taskStatus": "ongoing",  
+      "retailer": "fdfa"
+    },
+    {
+      "id": 10, "deliveryDate": "2018-05-14 12:00",   
+      "recepientName": "vasja",    
+      "recepientAddress": {
             "zip": "23898",
             "city": "Kühsen",
             "street": {
                 "name": "Hillentruper Straße",
                 "number": 80
             }
-        },  "taskStatus": "ongoing",  "retailer": "fdfa"},
-  {"id": 10, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "vasja",    "recepientAddress": {
-            "zip": "23898",
-            "city": "Kühsen",
-            "street": {
-                "name": "Hillentruper Straße",
-                "number": 80
-            }
-        },  "taskStatus": "created",  "retailer": "fdfa"}
+      },  
+      "taskStatus": "created",  
+      "retailer": "fdfa"
+    }
   ]
 }
