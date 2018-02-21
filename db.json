@@ -1,0 +1,14 @@
+{
+  "tasks":[
+  {"deliveryDate": "20/01/2018", "deliveryTime": "12 am", "recepientName": "peter", "recepientAddress": "string1", "taskStatus": "created",  "retailer": "abc"},
+  {"deliveryDate": "20/01/2018", "deliveryTime": "12 am", "recepientName": "oleg", "recepientAddress": "string2", "taskStatus": "ongoing",  "retailer": "abc"},
+  {"deliveryDate": "20/01/2018", "deliveryTime": "12 am", "recepientName": "alex", "recepientAddress": "string7", "taskStatus": "delivered",  "retailer": "abc"},
+  {"deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "bri", "recepientAddress": "string6", "taskStatus": "delivered",  "retailer": "cde"},
+  {"deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "bob", "recepientAddress": "string5", "taskStatus": "delivered",  "retailer": "cde"},
+  {"deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "andreas", "recepientAddress": "string2", "taskStatus": "delivered",  "retailer": "fff"},
+  {"deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "olga", "recepientAddress": "string4", "taskStatus": "ongoing",  "retailer": "fdfa"},
+  {"deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "anna", "recepientAddress": "string2", "taskStatus": "ongoing",  "retailer": "fdfa"},
+  {"deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "paul", "recepientAddress": "string8", "taskStatus": "ongoing",  "retailer": "fdfa"},
+  {"deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "vasja", "recepientAddress": "string3", "taskStatus": "created",  "retailer": "fdfa"}
+  ]
+}
