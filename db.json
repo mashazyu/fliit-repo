@@ -1,14 +1,14 @@
 {
   "tasks":[
-  {"id": 1, "deliveryDate": "20/01/2018", "deliveryTime": "12 am", "recepientName": "peter", "recepientAddress": "string1", "taskStatus": "created",  "retailer": "abc"},
-  {"id": 2, "deliveryDate": "20/01/2018", "deliveryTime": "12 am", "recepientName": "oleg", "recepientAddress": "string2", "taskStatus": "ongoing",  "retailer": "abc"},
-  {"id": 3, "deliveryDate": "20/01/2018", "deliveryTime": "12 am", "recepientName": "alex", "recepientAddress": "string7", "taskStatus": "delivered",  "retailer": "abc"},
-  {"id": 4, "deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "bri", "recepientAddress": "string6", "taskStatus": "delivered",  "retailer": "cde"},
-  {"id": 5, "deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "bob", "recepientAddress": "string5", "taskStatus": "delivered",  "retailer": "cde"},
-  {"id": 6, "deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "andreas", "recepientAddress": "string2", "taskStatus": "delivered",  "retailer": "fff"},
-  {"id": 7, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "olga", "recepientAddress": "string4", "taskStatus": "ongoing",  "retailer": "fdfa"},
-  {"id": 8, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "anna", "recepientAddress": "string2", "taskStatus": "ongoing",  "retailer": "fdfa"},
-  {"id": 9, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "paul", "recepientAddress": "string8", "taskStatus": "ongoing",  "retailer": "fdfa"},
-  {"id": 10, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "vasja", "recepientAddress": "string3", "taskStatus": "created",  "retailer": "fdfa"}
+  {"key": 1, "deliveryDate": "20/01/2018", "deliveryTime": "12 am", "recepientName": "peter", "recepientAddress": "string1", "taskStatus": "created",  "retailer": "abc"},
+  {"key": 2, "deliveryDate": "20/01/2018", "deliveryTime": "12 am", "recepientName": "oleg", "recepientAddress": "string2", "taskStatus": "ongoing",  "retailer": "abc"},
+  {"key": 3, "deliveryDate": "20/01/2018", "deliveryTime": "12 am", "recepientName": "alex", "recepientAddress": "string7", "taskStatus": "delivered",  "retailer": "abc"},
+  {"key": 4, "deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "bri", "recepientAddress": "string6", "taskStatus": "delivered",  "retailer": "cde"},
+  {"key": 5, "deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "bob", "recepientAddress": "string5", "taskStatus": "delivered",  "retailer": "cde"},
+  {"key": 6, "deliveryDate": "20/02/2018", "deliveryTime": "12 am", "recepientName": "andreas", "recepientAddress": "string2", "taskStatus": "delivered",  "retailer": "fff"},
+  {"key": 7, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "olga", "recepientAddress": "string4", "taskStatus": "ongoing",  "retailer": "fdfa"},
+  {"key": 8, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "anna", "recepientAddress": "string2", "taskStatus": "ongoing",  "retailer": "fdfa"},
+  {"key": 9, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "paul", "recepientAddress": "string8", "taskStatus": "ongoing",  "retailer": "fdfa"},
+  {"key": 10, "deliveryDate": "20/03/2018", "deliveryTime": "12 am", "recepientName": "vasja", "recepientAddress": "string3", "taskStatus": "created",  "retailer": "fdfa"}
   ]
 }
