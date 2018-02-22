@@ -76,7 +76,7 @@
       "id": 7, 
       "deliveryDate": "2018-05-22 12:05",     
       "recepient": {
-        "name": "Andres Koppel"
+        "name": "Andres Koppel",
         "zip": "99718",
         "city": "Wasserthaleben",
         "street": "Im Weddern, 11",
@@ -87,7 +87,7 @@
     {
       "id": 8, "deliveryDate": "2018-05-24 12:05",  
       "recepient": {
-        "name": "Josephine Schwimmer"
+        "name": "Josephine Schwimmer",
         "zip": "99438",
         "city": "Weimar",
         "street": "Oodwai, 35",
