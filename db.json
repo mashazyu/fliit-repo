@@ -85,15 +85,12 @@
       "retailer": "Soylent Corp"
     },
     {
-      "id": 8, "deliveryDate": "2018-05-24 12:05", 
-      "recepientName": "anna",   
+      "id": 8, "deliveryDate": "2018-05-24 12:05",  
       "recepient": {
-          "zip": "99438",
-          "city": "Weimar",
-          "street": {
-              "name": "Oodwai",
-              "number": 35
-          }
+        "name": "Josephine Schwimmer"
+        "zip": "99438",
+        "city": "Weimar",
+        "street": "Oodwai, 35",
       }, 
       "status": "ongoing",  
       "retailer": "Soylent Corp"
