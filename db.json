@@ -3,107 +3,86 @@
     {
       "id": 1, 
       "deliveryDate": "2017-04-23 23:05", 
-      "recepientName": "peter", 
-      "recepientAddress": {
-                "zip": "23898",
-                "city": "Kühsen",
-                "street": {
-                    "name": "Hillentruper Straße",
-                    "number": 80
-                }
+      "recepient": {
+        "name" : "Ulfrida Rosenbaum",
+        "zip": "23898",
+        "city": "Kühsen",
+        "street": "Hillentruper Straße, 80"
       }, 
-      "taskStatus": "created",  
-      "retailer": "abc"
+      "status": "created",  
+      "retailer": "Acme Corporation "
     },
     {
       "id": 2, 
-      "deliveryDate": "2017-05-23 10:05", 
-      "recepientName": "oleg",    
-      "recepientAddress": {
-            "zip": "23898",
-            "city": "Kühsen",
-            "street": {
-                "name": "Hillentruper Straße",
-                "number": 85
-            }
+      "deliveryDate": "2017-05-23 10:05",   
+      "recepient": {
+        "name": "Helga Baumann",
+        "zip": "23898",
+        "city": "Kühsen",
+        "street": "Hillentruper Straße, 85"
       },  
-      "taskStatus": "ongoing",  
-      "retailer": "abc"
+      "status": "ongoing",  
+      "retailer": "Acme Corporation "
     },
     {
       "id": 3, 
-      "deliveryDate": "2017-05-20 10:05", 
-      "recepientName": "alex",    
+      "deliveryDate": "2017-05-20 10:05",   
       "recepientAddress": {
-          "zip": "79224",
-          "city": "Umkirch",
-          "street": {
-              "name": "Franzenhauserweg",
-              "number": 81
-          }
+        "name": "Arlinde Angermann",
+        "zip": "79224",
+        "city": "Umkirch",
+        "street": "Franzenhauserweg, 82"
       },
-      "taskStatus": "delivered",  
-      "retailer": "abc"
+      "status": "delivered",  
+      "retailer": "Hooli"
     },
     {
       "id": 4, 
-      "deliveryDate": "2018-05-20 10:05", 
-      "recepientName": "bri",    
+      "deliveryDate": "2018-05-20 10:05",   
       "recepientAddress": {
-          "zip": "56729",
-          "city": "Virneburg",
-          "street": {
-              "name": "Am Stadtwege",
-              "number": 38
-          }
+        "name": "Tony Scheffer",
+        "zip": "56729",
+        "city": "Virneburg",
+        "street": "Am Stadtwege, 38"
       }, 
-      "taskStatus": "delivered",  
-      "retailer": "cde"
+      "status": "delivered",  
+      "retailer": "Hooli"
     },
     {
       "id": 5, 
-      "deliveryDate": "2018-05-20 11:05", 
-      "recepientName": "bob",    
+      "deliveryDate": "2018-05-20 11:05",    
       "recepientAddress": {
-          "zip": "99826",
-          "city": "Nazza",
-          "street": {
-              "name": "Wulfsbarg",
-              "number": 77
-          }
+        "name": "Andrej Haack",
+        "zip": "99826",
+        "city": "Nazza",
+        "street": "Wulfsbarg, 77",
       },  
-      "taskStatus": "delivered",  
-      "retailer": "cde"
+      "status": "delivered",  
+      "retailer": "Umbrella Corporation"
     },
     {
       "id": 6, 
-      "deliveryDate": "2018-05-22 11:05",  
-      "recepientName": "andreas",   
+      "deliveryDate": "2018-05-22 11:05",    
       "recepientAddress": {
-          "zip": "99438",
-          "city": "Weimar",
-          "street": {
-              "name": "Oodwai",
-              "number": 35
-          }
+        "name": "Diether Kappel",
+        "zip": "99438",
+        "city": "Weimar",
+        "street": "Oodwai, 35",
       },  
-      "taskStatus": "delivered",  
-      "retailer": "fff"
+      "status": "delivered",  
+      "retailer": "Umbrella Corporation"
     },
     {
       "id": 7, 
-      "deliveryDate": "2018-05-22 12:05",  
-      "recepientName": "olga",    
+      "deliveryDate": "2018-05-22 12:05",     
       "recepientAddress": {
-          "zip": "99718",
-          "city": "Wasserthaleben",
-          "street": {
-              "name": "Im Weddern",
-              "number": 11
-          }
+        "name": "Andres Koppel"
+        "zip": "99718",
+        "city": "Wasserthaleben",
+        "street": "Im Weddern, 11",
       },
-      "taskStatus": "ongoing",  
-      "retailer": "fdfa"
+      "status": "ongoing",  
+      "retailer": "Soylent Corp"
     },
     {
       "id": 8, "deliveryDate": "2018-05-24 12:05", 
@@ -116,36 +95,32 @@
               "number": 35
           }
       }, 
-      "taskStatus": "ongoing",  
-      "retailer": "fdfa"
+      "status": "ongoing",  
+      "retailer": "Soylent Corp"
     },
     {
-      "id": 9, "deliveryDate": "2018-05-14 12:05",  
-      "recepientName": "paul",    
+      "id": 9, 
+      "deliveryDate": "2018-05-14 12:05",     
       "recepientAddress": {
-          "zip": "99826",
-          "city": "Nazza",
-          "street": {
-              "name": "Wulfsbarg",
-              "number": 77
-          }
+        "name": "Kristina Kunert",
+        "zip": "99826",
+        "city": "Nazza",
+        "street": "Wulfsbarg, 77",
       },  
-      "taskStatus": "ongoing",  
-      "retailer": "fdfa"
+      "status": "ongoing",  
+      "retailer": "Vehement Capital Partners"
     },
     {
-      "id": 10, "deliveryDate": "2018-05-14 12:00",   
-      "recepientName": "vasja",    
+      "id": 10, 
+      "deliveryDate": "2018-05-14 12:00",     
       "recepientAddress": {
-          "zip": "56729",
-          "city": "Virneburg",
-          "street": {
-              "name": "Am Stadtwege",
-              "number": 38
-          }
+        "name": "Alban Korn",
+        "zip": "56729",
+        "city": "Virneburg",
+        "street": "Am Stadtwege, 38",
       },
-      "taskStatus": "created",  
-      "retailer": "fdfa"
+      "status": "created",  
+      "retailer": "Vehement Capital Partners"
     }
   ]
 }
