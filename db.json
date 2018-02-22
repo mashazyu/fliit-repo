@@ -7,7 +7,7 @@
         "name" : "Ulfrida Rosenbaum",
         "zip": "23898",
         "city": "Kühsen",
-        "street": "Hillentruper Straße, 80"
+        "street": "Hillentruper Straße 80"
       }, 
       "status": "created",  
       "retailer": "Acme Corporation "
@@ -19,7 +19,7 @@
         "name": "Helga Baumann",
         "zip": "23898",
         "city": "Kühsen",
-        "street": "Hillentruper Straße, 85"
+        "street": "Hillentruper Straße 85"
       },  
       "status": "ongoing",  
       "retailer": "Acme Corporation "
@@ -31,7 +31,7 @@
         "name": "Arlinde Angermann",
         "zip": "79224",
         "city": "Umkirch",
-        "street": "Franzenhauserweg, 82"
+        "street": "Franzenhauserweg 82"
       },
       "status": "delivered",  
       "retailer": "Hooli"
@@ -43,7 +43,7 @@
         "name": "Tony Scheffer",
         "zip": "56729",
         "city": "Virneburg",
-        "street": "Am Stadtwege, 38"
+        "street": "Am Stadtwege 38"
       }, 
       "status": "delivered",  
       "retailer": "Hooli"
@@ -55,7 +55,7 @@
         "name": "Andrej Haack",
         "zip": "99826",
         "city": "Nazza",
-        "street": "Wulfsbarg, 77"
+        "street": "Wulfsbarg 77"
       },  
       "status": "delivered",  
       "retailer": "Umbrella Corporation"
@@ -67,7 +67,7 @@
         "name": "Diether Kappel",
         "zip": "99438",
         "city": "Weimar",
-        "street": "Oodwai, 35"
+        "street": "Oodwai 35"
       },  
       "status": "delivered",  
       "retailer": "Umbrella Corporation"
@@ -79,7 +79,7 @@
         "name": "Andres Koppel",
         "zip": "99718",
         "city": "Wasserthaleben",
-        "street": "Im Weddern, 11"
+        "street": "Im Weddern 11"
       },
       "status": "ongoing",  
       "retailer": "Soylent Corp"
@@ -90,7 +90,7 @@
         "name": "Josephine Schwimmer",
         "zip": "99438",
         "city": "Weimar",
-        "street": "Oodwai, 35"
+        "street": "Oodwai 35"
       }, 
       "status": "ongoing",  
       "retailer": "Soylent Corp"
@@ -102,7 +102,7 @@
         "name": "Kristina Kunert",
         "zip": "99826",
         "city": "Nazza",
-        "street": "Wulfsbarg, 77"
+        "street": "Wulfsbarg 77"
       },  
       "status": "ongoing",  
       "retailer": "Vehement Capital Partners"
@@ -114,7 +114,7 @@
         "name": "Alban Korn",
         "zip": "56729",
         "city": "Virneburg",
-        "street": "Am Stadtwege, 38"
+        "street": "Am Stadtwege 38"
       },
       "status": "created",  
       "retailer": "Vehement Capital Partners"
