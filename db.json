@@ -27,7 +27,7 @@
     {
       "id": 3, 
       "deliveryDate": "2017-05-20 10:05",   
-      "recepientAddress": {
+      "recepient": {
         "name": "Arlinde Angermann",
         "zip": "79224",
         "city": "Umkirch",
@@ -39,7 +39,7 @@
     {
       "id": 4, 
       "deliveryDate": "2018-05-20 10:05",   
-      "recepientAddress": {
+      "recepient": {
         "name": "Tony Scheffer",
         "zip": "56729",
         "city": "Virneburg",
@@ -51,7 +51,7 @@
     {
       "id": 5, 
       "deliveryDate": "2018-05-20 11:05",    
-      "recepientAddress": {
+      "recepient": {
         "name": "Andrej Haack",
         "zip": "99826",
         "city": "Nazza",
@@ -63,7 +63,7 @@
     {
       "id": 6, 
       "deliveryDate": "2018-05-22 11:05",    
-      "recepientAddress": {
+      "recepient": {
         "name": "Diether Kappel",
         "zip": "99438",
         "city": "Weimar",
@@ -75,7 +75,7 @@
     {
       "id": 7, 
       "deliveryDate": "2018-05-22 12:05",     
-      "recepientAddress": {
+      "recepient": {
         "name": "Andres Koppel"
         "zip": "99718",
         "city": "Wasserthaleben",
@@ -87,7 +87,7 @@
     {
       "id": 8, "deliveryDate": "2018-05-24 12:05", 
       "recepientName": "anna",   
-      "recepientAddress": {
+      "recepient": {
           "zip": "99438",
           "city": "Weimar",
           "street": {
@@ -101,7 +101,7 @@
     {
       "id": 9, 
       "deliveryDate": "2018-05-14 12:05",     
-      "recepientAddress": {
+      "recepient": {
         "name": "Kristina Kunert",
         "zip": "99826",
         "city": "Nazza",
@@ -113,7 +113,7 @@
     {
       "id": 10, 
       "deliveryDate": "2018-05-14 12:00",     
-      "recepientAddress": {
+      "recepient": {
         "name": "Alban Korn",
         "zip": "56729",
         "city": "Virneburg",
