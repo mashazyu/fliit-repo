@@ -6,6 +6,4 @@ React, JS, Admin-on-rest framework (https://github.com/marmelab/admin-on-rest) a
 
 The application can be reviewed here: http://mundane-fall.surge.sh/#/login.
 
-Setup
-
 
